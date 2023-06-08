@@ -47,10 +47,10 @@ Result file will be in .csv format which can be opened into any suitable softwar
 
 Output Format:
 
-GeneId	  GeneSymbol	Strand	Annotation	Start	    End	      Length	Sequence
+	GeneId	  GeneSymbol	Strand	Annotation	Start	    End	      Length	Sequence
 
-107987295 ASMER1        -	Intron	        14857393    14857407  15	GAAGAAGAAGAAGAA
+	107987295 ASMER1        -	Intron	        14857393    14857407  15	GAAGAAGAAGAAGAA
 
-          Genomic	                        15075771    15075785  15	GAAGAAGAAGAAGAA
+		  Genomic	                        15075771    15075785  15	GAAGAAGAAGAAGAA
 
-5651	  TMPRSS15	-	Intron	        18445730    18445744  15	GAAGAAGAAGAAGAA
+	5651	  TMPRSS15	-	Intron	        18445730    18445744  15	GAAGAAGAAGAAGAA
