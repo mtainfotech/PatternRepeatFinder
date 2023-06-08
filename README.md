@@ -2,44 +2,30 @@
 Download the software:
     
     Weblink: https://github.com/mtainfotech/PatternRepeatFinder
-        
 	click on code dropdown ---> Download Zip   
-        
+  
 	Downloaded Directory: PatternRepeatFinder (it has four files)
-            
-	    PatternRepeatAnnotator.exe (click to run software)
-            
-	    PatternRepeatAnnotator.exe.config (chage the output path)
-            
-	    	C:\PatRepeatFinderResults\<SeqFileName>.csv 
-            
-	    README.md. (instructtions to run)
-            
-	    log4net.dll (supporting file)
+  	    1. PatternRepeatAnnotator.exe (click to run software)
+  	    2. PatternRepeatAnnotator.exe.config (chage the output path)
+  	    	Default Output Path: C:\PatRepeatFinderResults\<SeqFileName>.csv 
+  	    3. README.md. (instructtions to run)
+  	    4. log4net.dll (supporting file)
         
 INPUT
 
 	The RefSeq Reference Genome Annotation latest version in ggf format can be downloaded from NCBI website or click at following link:
-
 	https://www.ncbi.nlm.nih.gov/genome/guide/human/ 
-
-	CAUTION!
-
-	Download human genome in gff format only.
+	CAUTION! Download human genome in gff format only.
 
 	The chromosome wise data can be downloaded from https://www.ncbi.nlm.nih.gov/genome/?term=human+genome
-
 	Download Chromosome wise human genome files and put into the directory and rename each sequence file with header chromosome number of fasta sequence file
-
 	e.g. Human_genome/NC_000001.fasta        
 		          NC_000002.fasta
 
-	CAUTION!
-	Chromosome sequences in fasta format only are acceptable.
+	CAUTION! Chromosome sequences in fasta format only are acceptable.
 
 	The results will be automatically saved chromosome wise at following location:
 		C:\PatRepeatFinderResults\<SeqFileName>.csv
-
 	Result file will be in .csv format which can be opened into any suitable software.
 
 OUTPUT
