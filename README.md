@@ -36,3 +36,5 @@ OUTPUT
 		  Genomic	                        15075771    15075785  15	GAAGAAGAAGAAGAA
 
 	5651	  TMPRSS15	-	Intron	        18445730    18445744  15	GAAGAAGAAGAAGAA
+	
+If any sequence pattern of user-defined criteria is not found in the genome sequence file. Output file will not be generated. 
