@@ -49,11 +49,8 @@ Output Format:
 
 GeneId	  GeneSymbol	Strand	Annotation	Start	    End	      Length	Sequence
 
-107987295	ASMER1	    -	      Intron	    14857393	14857407	15	    GAAGAAGAAGAAGAA
+107987295 ASMER1        -	Intron	        14857393    14857407  15	GAAGAAGAAGAAGAA
 
-                Genomic	                        15075771	15075785	15	    GAAGAAGAAGAAGAA
+          Genomic	                        15075771    15075785  15	GAAGAAGAAGAAGAA
 
-5651	    TMPRSS15	  -	      Intron	    18445730	18445744	15	    GAAGAAGAAGAAGAA
-			    Genomic	                        18535772	18535786	15	    GAAGAAGAAGAAGAA
-653214	  PPIAP22	    +	      Intron	    18745147	18745167	21	    GAAGAAGAAGAAGAAGAAGAA
-100288151	SREK1IP1P1	+	      Intron	    19500659	19500676	18	    GAAGAAGAAGAAGAAGAA
+5651	  TMPRSS15	-	Intron	        18445730    18445744  15	GAAGAAGAAGAAGAA
