@@ -13,15 +13,14 @@ Download the software:
         
 INPUT
 
-	The RefSeq Reference Genome Annotation latest version in ggf format can be downloaded from NCBI website or click at following link:
+	1. The **RefSeq Reference Genome Annotation** latest version in ggf format can be downloaded from NCBI website or click at following link:
 	https://www.ncbi.nlm.nih.gov/genome/guide/human/ 
-	CAUTION! Download human genome in gff format only.
+	CAUTION! Download human genome in **gff format only**.
 
-	The chromosome wise data can be downloaded from https://www.ncbi.nlm.nih.gov/genome/?term=human+genome
+	The **chromosome wise sequence data in fasta format** can be downloaded from https://www.ncbi.nlm.nih.gov/genome/?term=human+genome
 	Download Chromosome wise human genome files and put into the directory and rename each sequence file with header chromosome number of fasta sequence file
 	e.g. Human_genome/NC_000001.fasta        
 		          NC_000002.fasta
-
 	CAUTION! Chromosome sequences in fasta format only are acceptable.
 
 	The results will be automatically saved chromosome wise at following location:
